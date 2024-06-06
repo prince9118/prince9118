@@ -25,7 +25,8 @@ Aspiring Frontend Developer and UI/UX Designer passionate about mastering React 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 📈 GitHub Stats
-[Your GitHub stats](https://github-readme-stats.vercel.app/api?prince9118=prince9118&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prince9118&show_icons=true&theme=radical)
+
 
 
 ## 🌐 Connect with Me
